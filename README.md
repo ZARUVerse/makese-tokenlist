@@ -1,4 +1,4 @@
-#MAKESE Ecosystem Token List
+MAKESE Ecosystem Token List
 
 Official token list for the MAKESE Holding Ltd. ecosystem, maintained by zaruverse.
 
